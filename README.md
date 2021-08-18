@@ -1,4 +1,18 @@
+## LAB 01
 - Worked with Tray and had some help from chance to do this assigment
+## LAB 02
+- name of feature:horned beast lab 02____
+
+- Estimate of time needed to complete: __2hours_
+
+- Start time: __5pm___
+
+- Finish time: __8:22___
+
+- Actual time needed to complete: __3:22___
+
+- Worked with tray on styling some of the bootstrap. Figured out the grid layout togethter. Hex helped us with importing bootstrap
+
 
 
 
