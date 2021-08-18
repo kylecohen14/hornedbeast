@@ -15,13 +15,13 @@ class App extends Component{
   }
 
   render () {
-  return (
-    <div>
-      <Header title="Horned Beast"/>
-      <Main data={this.state.beastData}/>
-      <Footer author="Author:Kyle"/>
-    </div>
-  );
-}
+    return (
+      <div>
+        <Header title="Horned Beast"/>
+        <Main data={this.state.beastData}/>
+        <Footer author="Author:Kyle"/>
+      </div>
+    );
+  }
 }
 export default App;
