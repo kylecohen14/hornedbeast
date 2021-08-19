@@ -13,6 +13,19 @@
 
 - Worked with tray on styling some of the bootstrap. Figured out the grid layout togethter. Hex helped us with importing bootstrap
 
+## Lab 03
+- Number and name of feature: ____gallery of horns_______
+
+- Estimate of time needed to complete: __3.5hr___
+
+- Start time: _5____
+
+- Finish time: __9___
+
+- Actual time needed to complete: ___4__
+- Worked with Tray Chea, he helped with some modal issues, and guiding me through some problems with passing props correctly to selected beast.
+
+
 
 
 
