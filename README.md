@@ -24,6 +24,16 @@
 
 - Actual time needed to complete: ___4__
 - Worked with Tray Chea, he helped with some modal issues, and guiding me through some problems with passing props correctly to selected beast.
+## Lab 04
+- Number and name of feature: ____gallery of horns form_______
+
+- Estimate of time needed to complete: __2.5hr___
+
+- Start time: _5____
+
+- Finish time: __7___
+- took 2 hours to complete
+- Worked with Tray and had some help from chance. Created a form and allowed user to filter out how many horns are on the beast they want to view
 
 
 
